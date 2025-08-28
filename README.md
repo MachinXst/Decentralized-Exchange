@@ -1,3 +1,6 @@
+## Decentralized Exchange
+This is a fullstack project developed from within the Blockchain Developer Bootcamp
+
 This project has been deployed via fleek.xyz!
 https://xenrir.on-fleek.app/
 
